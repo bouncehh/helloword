@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
-        <p class="lead">Source To Image PHP v4</p>
+        <p class="lead">Source To Image PHP v5</p>
       </div>
 
     </div><!-- /.container -->
