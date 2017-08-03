@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title> Source 2 Image PHP Demo 2</title>
+    <title> Source 2 Image PHP Demo 2,11</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -54,7 +54,11 @@
 
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
+<<<<<<< HEAD
         <p class="lead">Source To Image PHP v6</p>
+=======
+        <p class="lead">Felipe Carrasco</p>
+>>>>>>> ab004d84a78e67db1b4755dda9f6cafeb26ac1e9
       </div>
 
     </div><!-- /.container -->
