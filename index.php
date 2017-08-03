@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>APPUiO PHP Demo</title>
+    <title> Source 2 Image PHP Demo</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -53,8 +53,8 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">APPUiO Example Source To Image PHP</p>
+        <h1>Hello <?php echo 'Mundo'?></h1>
+        <p class="lead">Source To Image PHP</p>
       </div>
 
     </div><!-- /.container -->
