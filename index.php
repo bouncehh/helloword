@@ -57,8 +57,8 @@
 <<<<<<< HEAD
         <p class="lead">Source To Image PHP v7</p>
 =======
-        <p class="lead">Felipe Carrasco</p>
->>>>>>> ab004d84a78e67db1b4755dda9f6cafeb26ac1e9
+<!--        <p class="lead">Felipe Carrasco</p>
+>>>>>>> ab004d84a78e67db1b4755dda9f6cafeb26ac1e9 -->
       </div>
 
     </div><!-- /.container -->
