@@ -55,7 +55,7 @@
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
 <<<<<<< HEAD
-        <p class="lead">Source To Image PHP v7</p>
+        <p class="lead">Source To Image PHP v8</p>
 =======
 <!--        <p class="lead">Felipe Carrasco</p>
 >>>>>>> ab004d84a78e67db1b4755dda9f6cafeb26ac1e9 -->
