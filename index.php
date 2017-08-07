@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hello <?php echo 'Mundo'?></h1>
-        <p class="lead">ENTELGY REDHAT FORUM 2017</p>
+        <p class="lead">ENTELGY REDHAT FORUM 2017 - Felipe</p>
       </div>
 
     </div><!-- /.container -->
